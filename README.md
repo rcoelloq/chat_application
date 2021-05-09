@@ -6,3 +6,7 @@
 
 ## Introduction
 Creacion de una aplicación de chat en tiempo real completa
+
+## Credenciales de pruebas
+rcoelloq / 123123
+lisset   / 123123
